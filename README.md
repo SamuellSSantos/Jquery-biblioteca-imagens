@@ -20,4 +20,4 @@ Este é um projeto simples de uma galeria de fotos utilizando HTML, CSS e JavaSc
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/SamuellSSantos/Jquery-biblioteca-imagens
